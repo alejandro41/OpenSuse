@@ -14,4 +14,12 @@ The amount of space allocated to the equipment will be 10 Gb with the graphic en
 
 -----------------------------
 <img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen1.jpg">
+
+---------------------------------
+
+Once finished, we proceed with the installation of So, selecting the Spanish language for it.
+
+-----------------------------
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen2.jpg">
+
 ---------------------------------
