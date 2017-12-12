@@ -11,5 +11,5 @@ For the installation of the 64 bit architecture OpenSuse, the processor of the h
 For the installation the virtual box for the creation and management of the virtual machine will be occupied, for the creation of a new machine the button is selected again, after it is assigned about 2 gb of RAM memory for the machine, then a new virtual hard disk for the machine by selecting the VDI format (virtualbox disk image).
 The amount of space allocated to the equipment will be 10 Gb with the graphic environment (desktop). Once this is done, the processor is configured to enable PAE / NX characteristics.
 -----------------------------
-<img src="
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen1.jpg">
 ---------------------------------
