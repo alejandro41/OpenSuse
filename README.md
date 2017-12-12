@@ -339,7 +339,7 @@ or first open Yast, select System and Boot loader, in this screen we will see th
 With this we can modify the start of our open susen in a total graphic mint.
 
 
-9 Install and test SSH service
+# 9 Install and test SSH service
 
 For the test of the SSH service, PuTTY will be installed, since it is only necessary to download the execution file from the following page: https://software.opensuse.org/download.html?project=openSUSE%3AFactory&package=putty
 Or install it from the console with the following syntax:
