@@ -31,3 +31,35 @@ Once the OS is loaded, we proceed with the configuration of the keyboard languag
 <img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen3.jpg">
 
 ---------------------------------
+
+Once entered into the configuration of the installation, we observe the different partitions that by default the operating system delivers which are in the following image.
+
+
+-----------------------------
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen4.jpg">
+
+---------------------------------
+
+The / dev / sda partition is the whole unit which is recognized by the operating system.
+The unit will be divided into two logical units, the first unit which will have 2gb of agitated space which will be of Swap format, which will comply with the function of virtual memory of exchange.
+
+
+Then we move forward with the installation, we request the corresponding time zone that in this case would correspond to the continental chile, after that we give in advance, the installation program will ask us to select the graphic environment to work which gives us two options which are the desktop with KDE Plasma and desktop with gnome, we select the first option for the installation and we give it to next. Which we must create the local user of the machine with the user name, in this case we will assign the name of Luis with the following password 334030 which we give you the option to use this password for the system administrator plus the option of automatic login and we start with the execution n of the installation.
+
+
+-----------------------------
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen5.jpg">
+
+---------------------------------
+
+# Instalación de usuario sudo post instalación
+
+ Una vez terminado con la instalación del sistema operativo, procederemos con la instalación de un usuario sudo por comandos primero abrimos la consola de comando del OpenSuse.
+ 
+ -----------------------------
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen6.jpg">
+
+---------------------------------
+
+
+
