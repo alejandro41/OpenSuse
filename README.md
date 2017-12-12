@@ -339,18 +339,26 @@ or first open Yast, select System and Boot loader, in this screen we will see th
 With this we can modify the start of our open susen in a total graphic mint.
 
 
-# 9 Install and test SSH service
+9 Install and test SSH service
 
 For the test of the SSH service, PuTTY will be installed, since it is only necessary to download the execution file from the following page: https://software.opensuse.org/download.html?project=openSUSE%3AFactory&package=putty
-Or execute the following syntax as super administrator.
-Sudo su
-Enter password
+Or install it from the console with the following syntax:
+$ sudo apt-get install putty.
 
 
 -----------------------------
-<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen24.jpg">
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen25.jpg">
 
 ---------------------------------
 
 
+# 10 Install and test FTP service
+ 
+For the installation of the FTP service, it will be done by the yast software manager.
+
+
+# 11 Bibliography.
+
+Control and manual configuration of SuSEFirewall2 in open susen.
+https://doc.opensuse.org/documentation/leap/security/html/book.security/cha.security.firewall.html
 
