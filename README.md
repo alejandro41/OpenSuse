@@ -23,3 +23,11 @@ Once finished, we proceed with the installation of So, selecting the Spanish lan
 <img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen2.jpg">
 
 ---------------------------------
+
+Once the OS is loaded, we proceed with the configuration of the keyboard language selected in the Spanish language, given that it does not have the option of the Latin American keyboard and the option is given to continue arriving at the option of partitioning the local unit, which we select the advanced option for configuration of the installation.
+
+
+-----------------------------
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen3.jpg">
+
+---------------------------------
