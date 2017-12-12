@@ -307,8 +307,45 @@ To select the corresponding time zone, it is
 
 Occupying grep to find the capital of chile, once found, the following syntax is applied:
 Timedatectl set-timezome "Time zone".
+
+# 8 Modifications to the operating system boot system.
+
+To make changes in the start of open suse the grud will be taken care of. To select one as the default, and how to make the initial wait shorter. It can be done by modifying the corresponding file from a text editor. But since open SUSE has Yast, we will use this to do it graphically. The following screenshots show how to follow these simple steps.
+or first open Yast, select System and Boot loader, in this screen we will see the different options of the different Kernels that we have installed. To select one as default when booting, select it and check the box Set by default, and we will see how it is marked to be the initial when starting by default. From this screen we can also reorder the entries, raising or lowering them, or even eliminating them.
+
+
+ 
+ -----------------------------
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen21.jpg">
+
+---------------------------------
  
  
+ To reduce the waiting time before selecting the boot we can do it by clicking on the Installation tab of the boot loader, there we select Boot Loader Options and find where to modify the initial waiting time.
  
+ 
+-----------------------------
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen22.jpg">
+
+---------------------------------
+
+
+-----------------------------
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen23.jpg">
+
+---------------------------------
+
+
+With this we can modify the start of our open susen in a total graphic mint.
+
+
+# 9 Install and test SSH service
+
+For the test of the SSH service, PuTTY will be installed, since it is only necessary to download the execution file from the following page: https://software.opensuse.org/download.html?project=openSUSE%3AFactory&package=putty
+Or execute the following syntax as super administrator.
+Sudo su
+Enter password
+
+
 
 
