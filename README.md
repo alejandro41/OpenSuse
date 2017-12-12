@@ -347,5 +347,10 @@ Sudo su
 Enter password
 
 
+-----------------------------
+<img src="https://github.com/alejandro41/OpenSuse/blob/master/imagenes/imagen24.jpg">
+
+---------------------------------
+
 
 
